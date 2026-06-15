@@ -1,0 +1,6 @@
+{
+  "name": "EquityView Stock Treemap",
+  "description": "Interactive stock market visualization tool showing portfolio volume and price performance using a real-time-simulated D3 treemap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
